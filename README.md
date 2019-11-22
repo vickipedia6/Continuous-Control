@@ -24,7 +24,7 @@ Then, place the file in the folder in the Continuous-Control GitHub repository, 
 
  1. Download the project materials from my GitHub repository. You can download the repository with
   ```
-  git clone https://github.com/vickipedia6/Banana-Navigator.git
+  git clone https://github.com/vickipedia6/Continuous-Control.git
   ```
  2. Download anaconda or miniconda based on the instructions in the [Anaconda documentation](https://docs.anaconda.com).
  
