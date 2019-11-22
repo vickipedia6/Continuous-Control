@@ -52,7 +52,7 @@ WEIGHT_DECAY = 0
 
 ### Plot of Rewards
 
-<img src="/PLOT.png" width=500 px />
+<img src="/plot.png" width=500 px />
 
 * The agent was able to solve the environment in less than 200 episodes. Initially i tried with 3 FC Layers in Actor architecture but the model didn't converge. So i added another FC layer and tweek the hyperparameters and that did wonders. The agent was able to solve it quickly.
 
