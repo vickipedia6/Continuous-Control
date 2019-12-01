@@ -42,7 +42,7 @@ Then, place the file in the folder in the Continuous-Control GitHub repository, 
   ```
  6. Run the following to open up the notebook server:
   ```
-  jupyter notebook navigation.ipynb
+  jupyter notebook continuos control.ipynb
   ```
  7. Execute all the cells in the code
  
